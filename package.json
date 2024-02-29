@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "postcss": "^8.4.35",
+        "postcss-import": "^16.0.1",
+        "postcss-loader": "^8.1.1",
+        "postcss-nested": "^6.0.1",
+        "vite": "^5.0.0",
+        "webpack-cli": "^5.1.4"
+    }
+}
